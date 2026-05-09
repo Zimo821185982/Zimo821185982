@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
----
+
 
 ### 📝 Profile Overview
 Hi there! I'm **Nasorudin**, better known as **Zimo** 👋. 
