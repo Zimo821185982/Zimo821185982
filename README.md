@@ -1,17 +1,21 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
+  <!-- Header Animasi Dinamis -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hello,%20I'm%20Nasorudin%20(Zimo)%20✨&fontSize=50&animation=fadeIn&fontAlignY=35" />
 
-  <!-- Typing Animation -->
+  <!-- Animasi Typing / Mengetik -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=ACM+%2F+BD+at+Party+Star;Full-stack+Web+Developer;Agency+System+Architect;Junior+Web+Developer" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </p>
+  <!-- GIF Animasi yang Kamu Berikan -->
+  <br />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwNmYzMDlpd3Y2ZXYzczAzOWh0dmVqeTgyYXZodzhiNmo4ZnNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ctmcz9HBzBgq3yEvfo/giphy.gif" width="150" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
@@ -59,7 +63,7 @@ I currently serve as an **ACM/BD at Party Star**, responsible for Indonesian age
   <a href="https://www.scriptnusantara.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Script%20Nusantara-0078ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</div>
+
 
 <br />
 
