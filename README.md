@@ -28,12 +28,18 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-61D3BD?style=for-the-badge&logo=deepseek&logoColor=white" />
+</p>
+
 ---
 
 ### 📝 Profile Overview
 Hi there! I'm **Nasorudin**, better known as **Zimo** 👋. 
 
-I currently serve as an **ACM/BD at Party Star**, responsible for Indonesian agency recruitment and management. On the technical side, I am a tech enthusiast evolving into a **Junior Web Developer**.
+I currently serve as an **ACM/BD at Party Star**, responsible for Indonesian agency recruitment and management. On the technical side, I am a tech enthusiast evolving into a **Junior Web Developer** and now I'm learning to make Android mobile applications independently.
 
 *   🔭 **Current Project:** Transforming manual agency registration systems into a **Fully Integrated Digital System**.
 *   🏗️ **Innovation:** Implementing **cURL API** to securely bridge and synchronize agency databases.
