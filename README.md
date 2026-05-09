@@ -77,11 +77,20 @@ I currently serve as an **ACM/BD at Party Star**, responsible for Indonesian age
 
 ---
 
-### 🌐 Connect with my personal website :
+### 🌐 Connect with my professional & personal projects:
 <div align="center">
+  <a href="https://www.medrepnusantara.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Medrep%20Nusantara-E34F26?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.scriptnusantara.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Script%20Nusantara-0078ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  
+  <br />
+  
+  <p align="center">
+    <i>"These are my personal websites, which I built and manage independently from scratch."</i>
+  </p>
 </div>
 
 <br />
