@@ -49,10 +49,6 @@ I currently serve as an **ACM/BD at Party Star**, responsible for Indonesian age
 ---
 
 ### 📊 Performance & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zimo821185982&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimo821185982&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" height="170" />
-</p>
 
 ![Zimo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zimo821185982&theme=tokyonight&hide_border=true&area=true&color=38bdf8)
 
